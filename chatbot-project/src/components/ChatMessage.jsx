@@ -18,4 +18,4 @@ export function ChatMessage({ message, sender }) {
             )}
         </div>
     );
-}
+} 
