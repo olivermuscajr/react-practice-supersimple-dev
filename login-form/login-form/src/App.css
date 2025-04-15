@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+input {
+  padding: 12px 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.input-text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(0, 123, 255);
+  border: none;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.show-btn {
+  margin-left: 10px;
+}
+
+h1 {
+  font-weight: 100;
+}
